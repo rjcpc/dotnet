@@ -1,0 +1,4 @@
+D:\sycs\73\palindrome\palindrome\bin\Debug\palindrome.exe
+D:\sycs\73\palindrome\palindrome\bin\Debug\palindrome.pdb
+D:\sycs\73\palindrome\palindrome\obj\x86\Debug\palindrome.exe
+D:\sycs\73\palindrome\palindrome\obj\x86\Debug\palindrome.pdb

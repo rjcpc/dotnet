@@ -1,0 +1,4 @@
+D:\sycs\73\numtostr\numtostr\bin\Debug\numtostr.exe
+D:\sycs\73\numtostr\numtostr\bin\Debug\numtostr.pdb
+D:\sycs\73\numtostr\numtostr\obj\x86\Debug\numtostr.exe
+D:\sycs\73\numtostr\numtostr\obj\x86\Debug\numtostr.pdb
