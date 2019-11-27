@@ -9,13 +9,24 @@ namespace palindrome
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("enter a word");
-            string word = Console.ReadLine();
-            if (word.Reverse()==word)
+            int n, r, sum = 0, temp;
+            Console.Write("Enter The Number : ");
+            n = int.Parse(Console.ReadLine());
+            temp = n;
+            while (n > 0) {
+                r = n % 10;
+                sum=(sum*10)+r;
+                n = n / 10;
+            }
+            if (temp == sum)
             {
-                 Console.WriteLine("palindrome");
+                Console.Write("Number is palindrome. \n");
+            }
+            else {
+                Console.Write("Number is Not palindrome. \n");
             }
             Console.ReadLine();
+
         } 
     }
 }

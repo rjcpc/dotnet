@@ -9,16 +9,15 @@ namespace reversenum
     {
         static void Main(string[] args)
         {
-            int n, reverse = 0, rem;
-            Console.WriteLine("enter a number ");
+           int n, reverse = 0, ren;
+            Console.Write("Enter Your Number: ");
             n = int.Parse(Console.ReadLine());
-            while(n!=0)
-            {
-                rem=n%10;
-                reverse=reverse*10+rem;
-                n/=10;
+            while(n!=0){
+                ren = n % 10;
+                reverse = reverse * 10 + ren;
+                n /= 10;
             }
-            Console.WriteLine("reversed number "+reverse);
+            Console.Write("Reversed Number "+ reverse+"\n\n\n");
             Console.ReadLine();
         }
     }

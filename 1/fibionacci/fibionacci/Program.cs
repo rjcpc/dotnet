@@ -9,25 +9,19 @@ namespace fibionacci
     {
         static void Main(string[] args)
         {
-            int a, b, temp;
-            Console.WriteLine("enter a number ");
-            int inum = int.Parse(Console.ReadLine());
-
-            for (int i = 0; i < inum; i++) {
-                a = i;
-                b = i + 1;
-                temp = a + b;
-                Console.WriteLine(i);
+            int n1 = 0, n2 = 1, n3, i, number;
+            Console.Write("Enter Your Number: ");
+            number = int.Parse(Console.ReadLine());
+            Console.Write(n1 + " " + n2 + " ");
+            for (i = 2; i < number; ++i)
+            {
+                n3 = n1 + n2;
+                Console.Write(n3 + " ");
+                n1 = n2;
+                n2 = n3;
             }
-
-
+            Console.Write("\n"); 
             Console.ReadLine();
-            Console.ReadLine();
-            Console.ReadLine();
-           
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
         }
     }
 }

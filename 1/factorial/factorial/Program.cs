@@ -10,15 +10,16 @@ namespace factorial
         static void Main(string[] args)
         {
             int i, fact = 1, number;
-            Console.Write("enter a number ");
+            Console.Write("Enter any Number: ");
             number = int.Parse(Console.ReadLine());
-            Console.WriteLine(number);
-            for (i = 1; i <= number; i++) 
-            {
+            for (i = 1; i <= number; i++) {
                 fact = fact * i;
+
             }
-            Console.WriteLine("factorial is : "+fact);
+            Console.Write("Factorial of " + number + " is: " + fact + "\n" );
             Console.ReadLine();
+
         }
+
     }
 }

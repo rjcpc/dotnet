@@ -2,3 +2,7 @@ D:\sycs\73\checkprime\checkprime\bin\Debug\checkprime.exe
 D:\sycs\73\checkprime\checkprime\bin\Debug\checkprime.pdb
 D:\sycs\73\checkprime\checkprime\obj\x86\Debug\checkprime.exe
 D:\sycs\73\checkprime\checkprime\obj\x86\Debug\checkprime.pdb
+D:\sycs\73\1\checkprime\checkprime\obj\x86\Debug\checkprime.exe
+D:\sycs\73\1\checkprime\checkprime\obj\x86\Debug\checkprime.pdb
+D:\sycs\73\1\checkprime\checkprime\bin\Debug\checkprime.exe
+D:\sycs\73\1\checkprime\checkprime\bin\Debug\checkprime.pdb

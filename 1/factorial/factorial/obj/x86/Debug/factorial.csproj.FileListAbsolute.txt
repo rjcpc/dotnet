@@ -2,3 +2,7 @@ D:\sycs\73\factorial\factorial\bin\Debug\factorial.exe
 D:\sycs\73\factorial\factorial\bin\Debug\factorial.pdb
 D:\sycs\73\factorial\factorial\obj\x86\Debug\factorial.exe
 D:\sycs\73\factorial\factorial\obj\x86\Debug\factorial.pdb
+D:\sycs\73\1\factorial\factorial\obj\x86\Debug\factorial.exe
+D:\sycs\73\1\factorial\factorial\obj\x86\Debug\factorial.pdb
+D:\sycs\73\1\factorial\factorial\bin\Debug\factorial.exe
+D:\sycs\73\1\factorial\factorial\bin\Debug\factorial.pdb

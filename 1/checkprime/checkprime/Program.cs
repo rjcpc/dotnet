@@ -9,25 +9,22 @@ namespace checkprime
     {
         static void Main(string[] args)
         {
-            int i;
-            Console.WriteLine("enter a number ");
-            int inum = int.Parse( Console.ReadLine());
-
-            for( i=1;i<=inum;inum++){
-                if (inum % i != 0)
-                {
-                    Console.WriteLine("Number is prime");
+int n, i, m = 0, falg = 0;
+            Console.Write("Enter the number: ");
+            n = int.Parse(Console.ReadLine());
+            m = n / 2;
+            for (i = 2; i < m; i++ ) {
+                if(n%i==0){
+                    Console.Write("Number is Not Prime. \n");
+                    falg = 1;
                     break;
-                    
-
-                }
-                else 
-                {
-                    continue;
-                }
-
-            } 
+                }   
+            }
+            if(falg==0){
+                Console.Write("Number is Prime. \n");
+            }
             Console.ReadLine();
+
         }
     }
 }

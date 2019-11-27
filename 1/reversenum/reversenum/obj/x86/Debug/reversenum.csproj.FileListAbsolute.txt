@@ -2,3 +2,7 @@ D:\sycs\73\reversenum\reversenum\bin\Debug\reversenum.exe
 D:\sycs\73\reversenum\reversenum\bin\Debug\reversenum.pdb
 D:\sycs\73\reversenum\reversenum\obj\x86\Debug\reversenum.exe
 D:\sycs\73\reversenum\reversenum\obj\x86\Debug\reversenum.pdb
+D:\sycs\73\1\reversenum\reversenum\obj\x86\Debug\reversenum.exe
+D:\sycs\73\1\reversenum\reversenum\obj\x86\Debug\reversenum.pdb
+D:\sycs\73\1\reversenum\reversenum\bin\Debug\reversenum.exe
+D:\sycs\73\1\reversenum\reversenum\bin\Debug\reversenum.pdb
