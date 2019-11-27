@@ -50,6 +50,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CustomValidator.aspx" />
+    <Content Include="RegularExpessions.aspx" />
     <Content Include="RequiredField.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -62,7 +64,21 @@
     <Content Include="PasswordValidate.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomValidator.aspx.cs">
+      <DependentUpon>CustomValidator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomValidator.aspx.designer.cs">
+      <DependentUpon>CustomValidator.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegularExpessions.aspx.cs">
+      <DependentUpon>RegularExpessions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RegularExpessions.aspx.designer.cs">
+      <DependentUpon>RegularExpessions.aspx</DependentUpon>
+    </Compile>
     <Compile Include="RequiredField.aspx.cs">
       <DependentUpon>RequiredField.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
