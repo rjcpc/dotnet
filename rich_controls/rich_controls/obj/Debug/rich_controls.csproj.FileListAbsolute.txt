@@ -1,0 +1,4 @@
+D:\sycs\37\ASP\rich_controls\rich_controls\bin\rich_controls.dll
+D:\sycs\37\ASP\rich_controls\rich_controls\bin\rich_controls.pdb
+D:\sycs\37\ASP\rich_controls\rich_controls\obj\Debug\rich_controls.dll
+D:\sycs\37\ASP\rich_controls\rich_controls\obj\Debug\rich_controls.pdb
