@@ -1,0 +1,4 @@
+D:\sycs\37\ASP\masterpage\masterpage\bin\masterpage.dll
+D:\sycs\37\ASP\masterpage\masterpage\bin\masterpage.pdb
+D:\sycs\37\ASP\masterpage\masterpage\obj\Debug\masterpage.dll
+D:\sycs\37\ASP\masterpage\masterpage\obj\Debug\masterpage.pdb
