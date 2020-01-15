@@ -1,0 +1,4 @@
+D:\sycs\37\ASP\p5\p5\bin\p5.dll
+D:\sycs\37\ASP\p5\p5\bin\p5.pdb
+D:\sycs\37\ASP\p5\p5\obj\Debug\p5.dll
+D:\sycs\37\ASP\p5\p5\obj\Debug\p5.pdb
