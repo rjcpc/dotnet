@@ -1,0 +1,4 @@
+D:\sycs\37\ASP\nav\nav\bin\nav.dll
+D:\sycs\37\ASP\nav\nav\bin\nav.pdb
+D:\sycs\37\ASP\nav\nav\obj\Debug\nav.dll
+D:\sycs\37\ASP\nav\nav\obj\Debug\nav.pdb

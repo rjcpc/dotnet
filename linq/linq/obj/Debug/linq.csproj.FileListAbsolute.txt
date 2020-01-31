@@ -1,0 +1,4 @@
+D:\sycs\37\ASP\linq\linq\bin\linq.dll
+D:\sycs\37\ASP\linq\linq\bin\linq.pdb
+D:\sycs\37\ASP\linq\linq\obj\Debug\linq.dll
+D:\sycs\37\ASP\linq\linq\obj\Debug\linq.pdb

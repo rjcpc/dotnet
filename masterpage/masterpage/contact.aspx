@@ -5,5 +5,5 @@
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" runat="server">
     <p>
-        THIS IS CONTACT PAGE</p>
+    THIS IS CONTACT PAGE</p>
 </asp:Content>
